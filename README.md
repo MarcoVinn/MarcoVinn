@@ -1,7 +1,7 @@
 ### May The Force be With You ✨✨✨
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP
-- 🤔 Empenhado em masterizar Python
+- 🤔 Empenhado em Java e PowerBuilder
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
